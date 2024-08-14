@@ -1,6 +1,139 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="All",&Tv
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+#EXTINF:-1 group-title="All",BBC Earth
+https://allinonereborn.com/jiobe1125.m3u8?id=201
+#EXTINF:-1 group-title="All",Peace Tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="All",Jamuna TV
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=sRTp8jkdjpskv0GdY4EwqQ&expires=1723822948&user=c28278b7cc41459ea95c1d05df91e3e7
+#EXTINF:-1 group-title="All",Somoy TV
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLA3LKuRNgt8qGLit8_5RNQ/ts
+#EXTINF:-1 group-title="All",Indipendent Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBRP9fyB9DAry7QhZ6ZtE6I/ts
+#EXTINF:-1 group-title="All",News 24
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gP0b4ACIINxtq2R_XKwoL5Y/ts
+#EXTINF:-1 group-title="All",Chanel 24
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gEPxno6CF3U6J20Nj6_kgtA/ts
+#EXTINF:-1 group-title="All",RTV
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gKMZYc1jP27u7NJDTSXQyfY/ts
+#EXTINF:-1 group-title="All",Channel I
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHSSZGNn7rfh8uhtlii0qSs/ts
+#EXTINF:-1 group-title="All",Ekhon Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gF0INC1z_6xvs0HyhpT9j0w/ts
+#EXTINF:-1 group-title="All",Ekushe Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gItRhgf6fk702ib5HDtfS5g/ts
+#EXTINF:-1 group-title="All",TV9 Bangla
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNoNxP9epgHNG_YIrWHDTZI/ts
+#EXTINF:-1 group-title="All",ATN Bangla
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gABN1ENgUhd66dw0rFd-Aug/ts
+#EXTINF:-1 group-title="All",Gazi Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gH7ed83qUuKC4r2f9bg5ivA/ts
+#EXTINF:-1 group-title="All",Banglavision
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJVmhl5zUfb6bwc3yfKFEmQ/ts
+#EXTINF:-1 group-title="All",Nagorik Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIFoJ2pUNWj3xjrx0nCVPag/ts
 #EXTINF:-1 group-title="All",Discovery Bangla
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gK-1DwWv0YxOqk9-VfHmnpo/ts
+#EXTINF:-1 group-title="All",Nat Geo Bangla
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFpIU1uKLTbed3v0jU42gL4/ts
+#EXTINF:-1 group-title="All",Republic Bangla
+https://anym3u8player.com/youtube.php/id/66b38800e669c.m3u8
+#EXTINF:-1 group-title="All",DBC News
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCHhfjsh352aTrFLGFx0o-A/ts
+#EXTINF:-1 group-title="All",ATN News
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPzP84Bq7_OqDyCUNlwhXuk/ts
+#EXTINF:-1 group-title="All",Zee 24 Ghanta
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
+#EXTINF:-1 group-title="All",ABP Ananda
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
+#EXTINF:-1 group-title="All",Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 group-title="All",Movie Bangla
+http://alvetv.com/mbtv/8080/index.m3u8
+#EXTINF:-1 group-title="All",Bangla Tv
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#EXTINF:-1 group-title="All",Sony Entertainment
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNnq0vcHZbHKId_3uIzrbrY/ts
 #EXTINF:-1 group-title="All",Colours HD
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gM4TpRcVio-LCd9KiERDtwA/ts
+#EXTINF:-1 group-title="All",Jalsha Movies
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHYfy6NBtkBfBF6jNxRTug8/ts
+#EXTINF:-1 group-title="All",Sony Max
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gACtVUe0cziK7VzVHsXil3A/ts
+#EXTINF:-1 group-title="All",Cartoon Network
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gH7HpEIYg_4b4agUAXPgj_M/ts
+#EXTINF:-1 group-title="All",Pogo
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHwoEU5YIiFO5y0R4l89S_c/ts
+#EXTINF:-1 group-title="All",Annanda Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNR9e8M3P27IYrfKkOJe3vw/ts
+#EXTINF:-1 group-title="All",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+#EXTINF:-1 group-title="All",Disneyp
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNYs7cTAJs4mNN-JBnhZmsk/ts
+#EXTINF:-1 group-title="All",Hungama Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBnkvmgQgzV8JB8B87xECnE/ts
+#EXTINF:-1 group-title="All",B4u Music
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gH_39xK7sLOMY86U-E-vzuY/ts
+#EXTINF:-1 group-title="All",MTV Beats
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOCGtRoRrIEfymPNQvN0yQo/ts
+#EXTINF:-1 group-title="All",9x Jalwa
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGNzQ29nYKuW_C-GjDBv5pA/ts
+#EXTINF:-1 group-title="All",HBO HD
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIWFbppqh5BfUYbnHTdlEEE/ts
+#EXTINF:-1 group-title="All",Romedy Now
+http://iptvstream.xyz:8080/live/resplice/wdLIS4d9758INyuX/51876.ts
+#EXTINF:-1 group-title="All",Sony Pix
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDv96aTN44VbhRDnTlTVQrU/ts
+#EXTINF:-1 group-title="All",Nat Geo Wild
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gKBs025ywR17OF_xKg0UUd0/ts
+#EXTINF:-1 group-title="All",Sony Aath
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gGfERluCfvhKVdBXcOxNWrU/ts
+#EXTINF:-1 group-title="All",Sony Entertainment
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNnq0vcHZbHKId_3uIzrbrY/ts
+#EXTINF:-1 group-title="All",Niclodian
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOA9z0O7y168FtCk8VMKe-k/ts
+#EXTINF:-1 group-title="All",Zoom
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+#EXTINF:-1 group-title="All",9xm
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+#EXTINF:-1 group-title="All",Music India
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+#EXTINF:-1 group-title="All",Animal Planet HD
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+#EXTINF:-1 group-title="All",Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+#EXTINF:-1 group-title="All",Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+#EXTINF:-1 group-title="All",& Picture HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+#EXTINF:-1 group-title="All",Zee Bangla HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+#EXTINF:-1 group-title="All",Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF:-1 group-title="All",Star Gold Select HD
+http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
+#EXTINF:-1 group-title="All",Channel 9
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gAdK30W5ckj9e4BaTF8wnqg/ts
+#EXTINF:-1 group-title="All",My Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gE8jBQoSX7zJtrAVM-dATiQ/ts
+#EXTINF:-1 group-title="All",Desh Tv HD
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDTz1bt_mCQ4ZBccukX14Bs/ts
+#EXTINF:-1 group-title="All",Boishakhi Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gM9gnEUmsXc7KNs1x1dhxA8/ts
+#EXTINF:-1 group-title="All",Masranga Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBVPor8RDi_fX67pf9a2aeg/ts
+#EXTINF:-1 group-title="All",SA Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gN0BT4zwXjhPa2EEt3cqvY0/ts
+#EXTINF:-1 group-title="All",Mohona Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gOjIk2xo1ObGuNT4g_XqiUk/ts
+#EXTINF:-1 group-title="All",Bijoy Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCz_g1Rm88QbM5YilurqtQg/ts
+#EXTINF:-1 group-title="All",Depto Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gEzIpWINPhEY1ezirKGzJTI/ts
+#EXTINF:-1 group-title="All",Gobal Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJ_X5WhrYEIvgVzxsW_OBsQ/ts
+#EXTINF:-1 group-title="All",Asian Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gG0LpRuaEyg8rSrFeokPXfo/ts
+#EXTINF:-1 group-title="All",Nexus Tv
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNw0IG5jXS9oD7sORe7bnBc/ts
