@@ -24,7 +24,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC
 #EXTINF:-1 group-title="All",Cartoon Network
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="All",Discovery Bangla
- https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 group-title="All",Nat Geo
 https://allinonereborn.com/jiobe1125.m3u8?id=197
 #EXTINF:-1 group-title="All",BBC Earth
@@ -56,9 +56,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 #EXTINF:-1 group-title="All",Colours Bangla
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10932
 #EXTINF:-1 group-title="All",Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
-#EXTINF:-1 group-title="All",Colours Bangla Cinema
-
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglachasanmahmud
 #EXTINF:-1 group-title="All",Set Max
 https://mhdtvweb.com/sliv/stream.php?id=sony-max&e=.m3u8|Referer=https://mhdtvweb.com//&key=BDStreamHub
 #EXTINF:-1 group-title="All",Zee Cinema
@@ -67,6 +65,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=196
 #EXTINF:-1 group-title="All",Sony Entertainment 
 https://mhdtvweb.com/sliv/stream.php?id=sony-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=hasanmahmud
+
 #EXTINF:-1 group-title="All",Colours HD
 https://colorsscreen.com/live.php?id=144&extension=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
 #EXTINF:-1 group-title="All",&Tv
